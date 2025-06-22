@@ -12,6 +12,6 @@ pycodestyle==2.6.0
 requests==2.18.4
 six==1.16.0
 typing_extensions==4.5.0
-urllib3==2d4a3fee6de2fa45eb82169361918f759269b4ec
-Werkzeug==9a3a981d70d2e9ec3344b5192f86fcaf3210cd85
+urllib3==2.5.0
+Werkzeug==0.20.0
 zipp==3.19.1
